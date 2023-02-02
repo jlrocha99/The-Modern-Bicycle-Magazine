@@ -1,5 +1,5 @@
-This is my first web page.To make this example, demonstrates a modern magazine-style layout using, 
-HTML5, CSS3 and 960gs.grid.
+This is my first web page, to make this example we use, HTML5, CSS3 and 960gs.grid.Demonstrates a modern magazine-style layout. 
+
 <br />I hope you enjoy!
 
 <div align="center">
